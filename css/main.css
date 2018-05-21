@@ -5,7 +5,8 @@ body{
 header >*{
   display:inline-block;
   text-align: center;
-  background-image: url(http://www.solofondos.com/wp-content/uploads/2016/01/Fondos-pastel.jpg);
+  /*background-image: url(http://www.solofondos.com/wp-content/uploads/2016/01/Fondos-pastel.jpg);*/
+  background-color: green;
 }
 header > h1{
   width: 5%;
